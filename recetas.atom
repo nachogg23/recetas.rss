@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
     <title>recetas veganas faciles</title>
     <link href="https://www.recetasveganasfaciles.com"/>
-    <updated>2026-01-13T12:00:00z</updated>
-    <id>https://www.recetasveganasfaciles.com</id>
+    <updated>2026-01-13T12:00:00Z</updated>
+    <id>https://www.recetasveganasfaciles.com/</id>
     <author>
     <name>Recetas Veganas faciles</name>
     </author>
@@ -12,25 +12,24 @@
         <title>Ensalada de garbanzos</title>
         <link href="https://www.recetasveganasfaciles.com"/>
         <id>https://www.recetasveganasfaciles.com/ensalada-garbanzos</id>
-        <updated>2026-01-13T08:00:00z</updated>
+        <updated>2026-01-13T08:00:00Z</updated>
+        <summary>Una ensalada con garbanzos, tomate, pepino y un toque de limón.</summary>
     </entry>
 
         <entry>
         <title>Batido de platano y avena</title>
         <link href="https://www.recetasveganasfaciles.com"/>
         <id>https://www.recetasveganasfaciles.com/Batido-platano-avena</id>
-        <updated>2026-01-13T08:00:00z</updated>
-        <summary>Un batido para el desayuno: plátano,avena y leche vegetal</summary>
+        <updated>2026-01-13T09:00:00Z</updated>
+        <summary>Un batido para el desayuno: plátano, avena y leche vegetal</summary>
     </entry>
 
         <entry>
         <title>Tacos de lentejas</title>
         <link href="https://www.recetasveganasfaciles.com"/>
         <id>https://www.recetasveganasfaciles.com/Tacos-lentejas</id>
-        <updated>2026-01-13T08:00:00z</updated>
-        <summary>Taco relleno de lentejas y verduras frescas.</summary>
-
-
-
-
+        <updated>2026-01-13T10:00:00Z</updated>
+        <summary>Una ensalada con .garbanzos, tomate, pepino y un toque de limón.
+        </summary>
+        </entry>
 </feed>
